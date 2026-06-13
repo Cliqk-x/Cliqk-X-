@@ -178,7 +178,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  const startMessage = "Click to enter....";
+  const startMessage = "Click to enter L MATHERS DOMAIN";
   let startTextContent = '';
   let startIndex = 0;
   let startCursorVisible = true;
@@ -328,7 +328,13 @@ startScreen.addEventListener('click', async () => {
 
   const bioMessages = [
     "Owner OF PIPPER_eNGINE ",
-    "\"Hello this is (Cliqk-X)\""
+    "\"Hello this is (Cliqk-X)\"",
+    "I ain't who u think i am?",
+    "wanna know a secrete?",
+    "Legendry OM おばけ",
+    "There is a reason",
+    "I'm called the [-]PURGE KING[-]",
+    "Your are reading this all bcz i Let U dont think u outsmarted me "
   ];
   let bioText = '';
   let bioIndex = 0;
