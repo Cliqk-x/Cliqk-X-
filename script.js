@@ -327,7 +327,7 @@ startScreen.addEventListener('click', async () => {
   }, 500);
 
   const bioMessages = [
-    "Owner OF Hianime ",
+    "Owner OF PIPPER_eNGINE ",
     "\"Hello this is (Cliqk-X)\""
   ];
   let bioText = '';
